@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+
+<script>
+    const arr = [{}, {}, {}];
+    const copy = arr.map(item => ({...item}));
+
+    console.error(arr === copy);
+    console.error(arr[0] === copy[0]);
+</script>
