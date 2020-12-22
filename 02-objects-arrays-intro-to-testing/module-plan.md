@@ -5,7 +5,7 @@
 * sortStrings
 * pick
 * omit
-
+ 
 ## Новая тема - Объекты и массивы, основы тестирования
 
 * boolean operators
